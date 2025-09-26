@@ -1,4 +1,4 @@
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/e3d0e2b1-048b-4262-aa4e-9520ab3010b8" />
+<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/e3d0e2b1-048b-4262-aa4e-9520ab3010b8" />
 
 # Hi there 👋 I'm Simera  
 
